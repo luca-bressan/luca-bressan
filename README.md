@@ -14,3 +14,4 @@ Welcome to my GitHub page! This is going to feature articles, MATLAB code snippe
 ## Blog posts 📊
 
 * <https://luca-bressan.github.io/about-barrier-options>
+* <https://luca-bressan.github.io/he-s-giving-the-numbers>
